@@ -1,1 +1,10 @@
 *.pyc
+*.zip
+
+fastext-master/*.swp
+fastext-master/*.o
+fastext-master/*.bin
+fastext-master/*.vec
+fastext-master/data
+fastext-master/fasttext
+fastext-master/result
